@@ -4,4 +4,4 @@ compile.class
 conexionbd.java
 /node_modules
 *.json
-
+temp/
